@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01.FillTheMatrix", "Problem01.FillTheMatrix\Problem01.FillTheMatrix.csproj", "{5D63A6EA-8BCD-43BD-A871-CC94B81CAA64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02.MaximalSum", "Problem02.MaximalSum\Problem02.MaximalSum.csproj", "{FC68D6FD-76FD-40C1-B18A-468EB826A3E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03.MatrixShuffling", "Problem03.MatrixShuffling\Problem03.MatrixShuffling.csproj", "{FA85DFC9-C870-462E-839E-989A901EFE02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem04.SequenceInMatrix", "Problem04.SequenceInMatrix\Problem04.SequenceInMatrix.csproj", "{ECAF7833-7F75-4A8B-A56F-90D274406241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D63A6EA-8BCD-43BD-A871-CC94B81CAA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D63A6EA-8BCD-43BD-A871-CC94B81CAA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D63A6EA-8BCD-43BD-A871-CC94B81CAA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D63A6EA-8BCD-43BD-A871-CC94B81CAA64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC68D6FD-76FD-40C1-B18A-468EB826A3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC68D6FD-76FD-40C1-B18A-468EB826A3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC68D6FD-76FD-40C1-B18A-468EB826A3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC68D6FD-76FD-40C1-B18A-468EB826A3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA85DFC9-C870-462E-839E-989A901EFE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA85DFC9-C870-462E-839E-989A901EFE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA85DFC9-C870-462E-839E-989A901EFE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA85DFC9-C870-462E-839E-989A901EFE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECAF7833-7F75-4A8B-A56F-90D274406241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAF7833-7F75-4A8B-A56F-90D274406241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAF7833-7F75-4A8B-A56F-90D274406241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAF7833-7F75-4A8B-A56F-90D274406241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
