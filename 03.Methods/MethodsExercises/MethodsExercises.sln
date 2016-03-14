@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01.LetterCreator", "Problem01.LetterCreator\Problem01.LetterCreator.csproj", "{1C6D9B40-4949-48F9-8E83-1A2F1DC454DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02.UppercaseCharsAtEvenPositions", "Problem02.UppercaseCharsAtEvenPositions\Problem02.UppercaseCharsAtEvenPositions.csproj", "{5B68D27C-FE52-4AEE-9269-2063550269AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C6D9B40-4949-48F9-8E83-1A2F1DC454DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6D9B40-4949-48F9-8E83-1A2F1DC454DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6D9B40-4949-48F9-8E83-1A2F1DC454DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6D9B40-4949-48F9-8E83-1A2F1DC454DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B68D27C-FE52-4AEE-9269-2063550269AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B68D27C-FE52-4AEE-9269-2063550269AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B68D27C-FE52-4AEE-9269-2063550269AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B68D27C-FE52-4AEE-9269-2063550269AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
